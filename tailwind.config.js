@@ -9,11 +9,11 @@ export default {
       colors: {
         primary: "#299D91",
         secondary: "#525256",
-        defaultBlack: "#191919", 
+        defaultBlack: "#191919",
         gray: {
           "01": "#666666",
           "02": "#878787",
-          "03": "#9F9F9F", 
+          "03": "#9F9F9F",
           "05": "#E8E8E8",
           "06": "#F3F3F3",
         },
@@ -24,14 +24,14 @@ export default {
           "mainBg": "#F4F5F7",
           "green": "#E73D1C",
           "red": "#4DAF6E"
-        } 
+        }
       },
-    fontFamily: {
-      body: ['Inter'],
-      poppins: ["Poppins"],
-    }
+
+      fontFamily: {
+        body: ['Inter'],
+        poppins: ['Poppins']
+      }
+    },
   },
   plugins: [],
-}
-
 }
