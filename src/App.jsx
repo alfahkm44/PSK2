@@ -1,5 +1,5 @@
 
-import SignInPage from "../src/Pages/signIn"
+import SignInPage from "./Pages/SignInPage"
 
 const App = () => {
   return (
